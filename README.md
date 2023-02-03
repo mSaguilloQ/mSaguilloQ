@@ -7,7 +7,9 @@
 ## Sobre mi
 
 💻 Soy un futuro desarrollador
+
 🔭 Intento mejorar y aprender cada dia un poco más de este mundo
+
 🎮 Amante de los videojuegos
 
 <!--
