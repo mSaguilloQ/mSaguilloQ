@@ -4,7 +4,8 @@
 
 ![Hello-World_Blog-scaled](https://user-images.githubusercontent.com/124071103/216621937-488d60a7-2f0f-4540-9318-43386e917819.jpeg)
 
-:computer Junior Software Developer
+💻 Junior Software Developer
+
 <!--
 **mSaguilloQ/mSaguilloQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
