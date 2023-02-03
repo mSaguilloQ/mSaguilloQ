@@ -6,7 +6,7 @@
 
 ## Sobre mi
 
-💻 Soy un futuro desarrollador
+💻 Futuro desarrollador de software
 
 🔭 Intento mejorar y aprender cada dia un poco más de este mundo
 
