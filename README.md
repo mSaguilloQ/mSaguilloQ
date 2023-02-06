@@ -1,7 +1,7 @@
 ### Hola, mi nombre es Miguel Sagüillo 👋
 
 ###
-![Hello-World_Blog-scaled](https://user-images.githubusercontent.com/124071103/216621937-488d60a7-2f0f-4540-9318-43386e917819.jpeg)
+![IMG-20230203-WA0016.jpg](https://user-images.githubusercontent.com/124071103/216781040-d7f848b1-7a40-4024-b757-ae2d5045ab87.jpg)
 
 ## Sobre mi
 
