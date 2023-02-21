@@ -11,7 +11,7 @@
 
 🎮 Amante de los videojuegos
 
-☝️ Iré subiendo aqui mis futuros proyectos
+☝️ Iré subiendo aquí mis futuros proyectos
 
 <!--
 **mSaguilloQ/mSaguilloQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
